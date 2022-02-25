@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="app.gif" width=250><br>
 
 ### Notes
-A challenge that I encountered was when I was prompted to create a MovieAdapter.kt file, but the compiler instructed me to save it in a different com.example.flixster folder that caused me an error. 
+A challenge that I encountered was when I was prompted to create a MovieAdapter.kt file, but the compiler instructed me to save it in a different com.example.flixster folder that caused me an error. This helped me take note of the importance of file location!
 
 ### Open-source libraries used
 
