@@ -1,8 +1,6 @@
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
 ---
 
 ## Flix Part 1
@@ -23,10 +21,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="walkthrough.gif" width=250><br>
+<img src="app.gif" width=250><br>
 
 ### Notes
-A challenge that I encountered was when I was prompted to create a MovieAdapter.kt file, but the compiler instructed me to save it in a different com.example.flixster folder that caused me an error. 
+A challenge that I encountered was when I was prompted to create a MovieAdapter.kt file, but the compiler instructed me to save it in a different com.example.flixster folder that caused me an error. This helped me take note of the importance of file location!
 
 ### Open-source libraries used
 
